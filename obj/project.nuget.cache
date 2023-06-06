@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hIO01cWzt/YArsZdQQAsYA6Qz5hQxsK6Ms4meIplz+9pb5M7M+9/ZXubjtO/6xIi8BM2q1AFo+KtRSkv9MubEg==",
+  "success": true,
+  "projectFilePath": "D:\\INFORMATIKA\\SEMESTER 2\\PBO\\crudwinformadit\\crudwinformadit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intaa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\intaa\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\intaa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
